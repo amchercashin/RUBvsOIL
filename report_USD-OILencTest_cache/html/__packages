@@ -1,0 +1,13 @@
+base
+knitr
+zoo
+xts
+TTR
+quantmod
+ggplot2
+lattice
+plyr
+Rmisc
+scales
+bitops
+RCurl
