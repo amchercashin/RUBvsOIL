@@ -1,7 +1,7 @@
 ---
 title: "Зависимость курса USD/RUB от цены на нефть марки Brent"
 author: "Alexander Cherkashin"
-date: "9 декабря 2015 г."
+date: "14 декабря 2015 г."
 lang: russian
 output: pdf_document
 ---
